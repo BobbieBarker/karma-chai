@@ -31,7 +31,7 @@
     "url": "https://github.com/xdissent/karma-chai/issues"
   },
   "peerDependencies": {
-    "chai": "*",
+    "chai": "^2.1.2",
     "karma": ">=0.10.9"
   }
 }
